@@ -1,7 +1,7 @@
 package domain;
 /**
  * Клас який описує артистів компаніє
- * @author Admin
+ * @author TolyanMAN
  */
 public class Artist extends Employee {
 /**
