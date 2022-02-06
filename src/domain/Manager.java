@@ -1,7 +1,7 @@
 package domain;
 /**
  * Клас який описує менеджерів компанії
- * @author Marianna
+ * @author TolyanMAN
  */
 public class Manager extends Employee {
 
@@ -68,7 +68,7 @@ public class Manager extends Employee {
     }
 
     /**
-     * Методя для того, щоб вернути масив з співробітниками менеджера
+     * Метод для того, щоб вернути масив з співробітниками менеджера
      * @return повертає масив співробітників менеджера
      */
     public Employee[] getEmployeesList() {
