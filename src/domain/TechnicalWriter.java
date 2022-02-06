@@ -1,7 +1,7 @@
 package domain;
 /**
  * Класс який описує тех.редактора
- * @author Marianna Zabryanskaia
+ * @author Gerasimenko Maksim
  */
 public class TechnicalWriter extends Artist {
 }
