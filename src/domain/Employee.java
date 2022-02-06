@@ -1,7 +1,7 @@
 package domain;
 /**
  * Базовий клас який описує співробітників компанії
- * @author Marianna
+ * @author TolyanMAN
  */
 
 public class Employee {
