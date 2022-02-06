@@ -1,7 +1,7 @@
 package domain;
 /**
  * Клас який описує графічні ілюстратори
- * @author Marianna Zabryanskaia
+ * @author Gerasimenko Maksim
  */
 public class GraphicIllustrator extends Artist {
 }
