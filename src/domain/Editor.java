@@ -1,7 +1,7 @@
 package domain;
 /**
  * Клас який описує редакторів компанії
- * @author Marianna
+ * @author TolyanMAN
  */
 public class Editor extends Artist {
 /**
